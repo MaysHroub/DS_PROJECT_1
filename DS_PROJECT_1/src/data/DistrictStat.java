@@ -1,9 +1,9 @@
-package data_pack;
+package data;
 
 import java.util.Date;
 
-import linkedlist_pack.LinkedList;
-import linkedlist_pack.Node;
+import linkedlist.LinkedList;
+import linkedlist.Node;
 
 public class DistrictStat extends MartyrStat {
 

@@ -1,10 +1,10 @@
-package layouts_pack;
+package layouts;
 
 import java.util.ArrayList;
 import java.util.Date;
 
-import data_pack.*;
-import dataholder_pack.DataHolder;
+import data.*;
+import dataholder.DataHolder;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
@@ -15,7 +15,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
-import linkedlist_pack.Node;
+import linkedlist.Node;
 
 public class ModifyMartyrLayout extends TabLayout {
 

@@ -1,4 +1,4 @@
-package dll_pack;
+package doublylinkedlist;
 
 public class DoublyLinkedList<T extends Comparable<T>> {
 

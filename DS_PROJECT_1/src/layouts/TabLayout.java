@@ -1,6 +1,6 @@
-package layouts_pack;
+package layouts;
 
-import dataholder_pack.DataHolder;
+import dataholder.DataHolder;
 import javafx.scene.layout.Pane;
 
 public abstract class TabLayout {

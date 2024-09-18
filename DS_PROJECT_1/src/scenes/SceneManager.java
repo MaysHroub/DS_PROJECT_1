@@ -1,4 +1,4 @@
-package scenes_pack;
+package scenes;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;

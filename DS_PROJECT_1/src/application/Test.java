@@ -5,11 +5,11 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import data_pack.*;
-import dll_pack.DoublyLinkedList;
+import data.*;
+import doublylinkedlist.DoublyLinkedList;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-import linkedlist_pack.LinkedList;
+import linkedlist.LinkedList;
 
 public class Test {
 	

@@ -5,25 +5,25 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import data_pack.*;
-import dataholder_pack.DataHolder;
-import dll_pack.DoublyLinkedList;
+import data.*;
+import dataholder.DataHolder;
+import doublylinkedlist.DoublyLinkedList;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-import layouts_pack.DistrictNavigationLayout;
-import layouts_pack.LocationNavigationLayout;
-import layouts_pack.ModifyDistrictLayout;
-import layouts_pack.ModifyLocationLayout;
-import layouts_pack.ModifyMartyrLayout;
-import scenes_pack.DistrictScene;
-import scenes_pack.LocationScene;
-import scenes_pack.MartyrScene;
-import scenes_pack.SceneID;
-import scenes_pack.SceneManager;
+import layouts.DistrictNavigationLayout;
+import layouts.LocationNavigationLayout;
+import layouts.ModifyDistrictLayout;
+import layouts.ModifyLocationLayout;
+import layouts.ModifyMartyrLayout;
+import scenes.DistrictScene;
+import scenes.LocationScene;
+import scenes.MartyrScene;
+import scenes.SceneID;
+import scenes.SceneManager;
 
 public class AppLauncher extends Application {
 

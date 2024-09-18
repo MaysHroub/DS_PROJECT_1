@@ -1,6 +1,6 @@
-package data_pack;
+package data;
 
-import linkedlist_pack.Node;
+import linkedlist.Node;
 
 public class LocationStat extends MartyrStat {
 

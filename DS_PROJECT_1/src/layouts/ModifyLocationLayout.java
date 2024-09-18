@@ -1,7 +1,7 @@
-package layouts_pack;
+package layouts;
 
-import data_pack.*;
-import dataholder_pack.DataHolder;
+import data.*;
+import dataholder.DataHolder;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
@@ -10,7 +10,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
-import linkedlist_pack.Node;
+import linkedlist.Node;
 
 public class ModifyLocationLayout extends TabLayout {
 

@@ -1,7 +1,7 @@
-package scenes_pack;
+package scenes;
 
 import javafx.scene.Scene;
-import layouts_pack.TabLayout;
+import layouts.TabLayout;
 
 public abstract class TabScene {
 	

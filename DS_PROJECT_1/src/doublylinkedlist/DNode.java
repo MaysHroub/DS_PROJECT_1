@@ -1,4 +1,4 @@
-package dll_pack;
+package doublylinkedlist;
 
 public class DNode<T extends Comparable<T>> {
 	

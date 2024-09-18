@@ -1,4 +1,4 @@
-package scenes_pack;
+package scenes;
 
 public enum SceneID {
 	DISTRICT,

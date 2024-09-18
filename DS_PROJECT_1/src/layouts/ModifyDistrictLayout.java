@@ -1,8 +1,8 @@
-package layouts_pack;
+package layouts;
 
-import data_pack.*;
-import dataholder_pack.DataHolder;
-import dll_pack.DNode;
+import data.*;
+import dataholder.DataHolder;
+import doublylinkedlist.DNode;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
@@ -11,7 +11,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
-import linkedlist_pack.LinkedList;
+import linkedlist.LinkedList;
 
 public class ModifyDistrictLayout extends TabLayout {
 	

@@ -1,6 +1,6 @@
-package data_pack;
+package data;
 
-import linkedlist_pack.LinkedList;
+import linkedlist.LinkedList;
 
 public class District implements Comparable<District> {
 	

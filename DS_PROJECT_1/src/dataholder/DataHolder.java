@@ -1,9 +1,9 @@
-package dataholder_pack;
+package dataholder;
 
-import data_pack.*;
-import dll_pack.DNode;
-import dll_pack.DoublyLinkedList;
-import linkedlist_pack.Node;
+import data.*;
+import doublylinkedlist.DNode;
+import doublylinkedlist.DoublyLinkedList;
+import linkedlist.Node;
 
 public class DataHolder {
 	

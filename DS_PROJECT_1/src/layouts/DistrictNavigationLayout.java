@@ -1,9 +1,9 @@
-package layouts_pack;
+package layouts;
 
 import java.util.Date;
 
-import data_pack.District;
-import dataholder_pack.DataHolder;
+import data.District;
+import dataholder.DataHolder;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;

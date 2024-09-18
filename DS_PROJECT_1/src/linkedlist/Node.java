@@ -1,4 +1,4 @@
-package linkedlist_pack;
+package linkedlist;
 
 public class Node< T extends Comparable<T> > {
 	

@@ -1,4 +1,4 @@
-package scenes_pack;
+package scenes;
 
 import javafx.geometry.Side;
 import javafx.scene.Scene;
@@ -8,7 +8,7 @@ import javafx.scene.control.MenuItem;
 import javafx.scene.control.Tab;
 import javafx.scene.control.TabPane;
 import javafx.scene.layout.BorderPane;
-import layouts_pack.TabLayout;
+import layouts.TabLayout;
 
 
 public class DistrictScene extends TabScene {
